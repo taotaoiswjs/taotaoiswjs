@@ -15,7 +15,7 @@
 - 有 1.5 年 Minecraft 服务器经验，2.5 年 Ctrl+C & Ctrl+V 经验，3.5 年摆烂经验
 - 擅长服务器运维 / Cloudflare WAF / 网站搭建 / 狗叫（?）
   
-###📫 有事找我？
+### 📫 有事找我？
 
 你可以通过以下方式与我取得联系：
 注：仅在节假日 / 非工作日回复消息
@@ -26,7 +26,7 @@
 - 🐦 Twitter：@taotaoiswjs / @Luffy_GXs
 - 🌐 个人网站：www.taotaoiswjs.cn / me.taotaoiswjs.cn / pan.taotaoiswjs.cn
 
-###❤️ 给我打钱
+### ❤️ 给我打钱
 捐赠即意味该行为完全自愿，您无法从这里得到任何回报
 
 - ₿ BTC：18H4VWvgWM1c2XcsF5fXa81SoCyfimvhs2
