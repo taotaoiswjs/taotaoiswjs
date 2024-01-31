@@ -1,10 +1,9 @@
-#👋 你好，我是 BLxcwg666！
+# <p align="center">👋 你好，我是 BLxcwg666！</p>
+<p align="center">（a.k.a 小陈网管）很高兴遇见你！是猫猫，热爱计算机互联网事业，对新事物充满好奇.<br/></p>
+<p align="center"><a href="https://wakatime.com/@018c29a9-6bba-4290-b83c-e1d1582f0233"><img src="https://wakatime.com/badge/user/018c29a9-6bba-4290-b83c-e1d1582f0233.svg"/></a></p>
 
-（a.k.a 小王网管）很高兴遇见你！是晨风韵雨，热爱计算机互联网事业，对新事物充满好奇.
 
-
-
-###🚀 关于我
+### 🚀 关于我
 - 🌱 学习中：C/C++ / Java / Node.js / PHP / Python
 - 🔭 致力于：服务器运维 / 网站搭建 / Blockbuster动画 / 摆烂 / 喵喵叫（?）
 - 💬 我乐于分享我的经验和知识，如果你有任何问题，欢迎与我交流
