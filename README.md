@@ -2,7 +2,7 @@
 <p align="center">（a.k.a 小王网管）很高兴遇见你！是猫猫，热爱计算机互联网事业，对新事物充满好奇.<br/></p>
 <p align="center"><a href="https://wakatime.com/@018c29a9-6bba-4290-b83c-e1d1582f0233"><img src="https://wakatime.com/badge/user/018c29a9-6bba-4290-b83c-e1d1582f0233.svg"/></a></p>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);嗨害嗨！愉快！&center=true&size=27"> </a> </h1>
 
 
 ### 🚀 关于我
