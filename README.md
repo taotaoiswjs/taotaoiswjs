@@ -9,6 +9,29 @@
 - 🌱 学习中：C/C++ / Java / Node.js / PHP / Python
 - 🔭 致力于：服务器运维 / 网站搭建 / Blockbuster动画 / 摆烂 / 喵喵叫（?）
 - 💬 我乐于分享我的经验和知识，如果你有任何问题，欢迎与我交流
+
+- ### ℹ️ Status
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BLxcwg666&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="BLxcwg666's GitHub stats" /></a>
+
+### 💻 开发环境
+[![Windows 10](https://img.shields.io/badge/Windows_10-165ccc?style=for-the-badge&logo=windows-10&logoColor=white)](https://zh.wikipedia.org/wiki/Windows_10)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-cc4116?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Google Chrome](https://img.shields.io/badge/Google_Chrome-e74033?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://chrome.google.com)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![WebStorm](https://img.shields.io/badge/WebStorm_2023.3.4-086cf7.svg?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/zh-cn/webstorm/)
+[![VS](https://img.shields.io/badge/Vistual_Studio-9745de.svg?&style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/zh-hans/)
+
+
+### ⌨️ 会的东西
+[![Node](https://img.shields.io/badge/Node.JS-3c823b?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![HTML](https://img.shields.io/badge/HTML-dd4b25?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JS](https://img.shields.io/badge/JavaScript-efd81d?&style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![php](https://img.shields.io/badge/php-4d588e?style=for-the-badge&logo=php&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
 ### ⚡ 一些技能
 - 精通 Word、Excel、Access、PowerPoint、Outlook Express 等软件的安装与卸载
